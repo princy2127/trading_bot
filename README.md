@@ -1,6 +1,6 @@
 # Trading Bot (Simulated)
 
-This is a simple Python-based trading bot created as part of an internship assignment.
+This is a simple Python-based trading bot .
 
 ## Features
 - Accepts user input (symbol, side, order type, quantity)
@@ -12,15 +12,6 @@ This is a simple Python-based trading bot created as part of an internship assig
 ## Technologies Used
 - Python
 - Logging module
-
-## How to Run
-
-1. Open terminal in project folder
-2. Run the following command:
-
-   python main.py
-
-3. Enter required inputs when prompted
 
 ## Note
 This is a simulated bot and does not place real trades. It is designed to demonstrate backend logic and structure.
